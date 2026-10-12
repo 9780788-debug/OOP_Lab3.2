@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <!-- Якщо на комп'ютері встановлено інший .NET SDK, змініть версію (net6.0 / net7.0 / net8.0) -->
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Lab32</RootNamespace>
+  </PropertyGroup>
+
+</Project>
